@@ -1,0 +1,12 @@
+.thumb-btn{
+    display: flex;
+    gap: 10px;
+}
+.btn{
+    padding: 5px 10px;
+    border: 1px solid gray;
+    background-color: aquamarine;
+}
+.btn:hover{
+   background-color: cyan;
+}
